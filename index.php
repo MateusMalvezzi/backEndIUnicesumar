@@ -14,7 +14,7 @@
 			<ul>
 				<li><a href="#" title="Home" alt="Home">Home</a></li>
 				<li><a href="#" title="Blog" alt="Blog">Blog</a></li>
-				<li><a href="#" title="Conheça a Dona Dirce" alt="Conheça a Dona Dirce">Conheca a Dona Dirce</a></li>
+				<li><a href="#" title="Conheça a Dona Dirce" alt="Conheça a Dona Dirce">Conheça a Dona Dirce</a></li>
                 <li><a href="#" title="Contato" alt="Contato">Contato</a></li>
 			</ul>
 		</nav>

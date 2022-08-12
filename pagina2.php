@@ -38,7 +38,7 @@
 			<ul>
 				<li><a href="index.php" title="Home" alt="Home">Home</a></li>
 				<li><a href="index.php" title="Blog" alt="Blog">Blog</a></li>
-				<li><a href="index.php" title="Conheca a Dona Dirce" alt="Conheca a Dona Dirce">Conheca a Dona Dirce</a></li>
+				<li><a href="index.php" title="Conheca a Dona Dirce" alt="Conheça a Dona Dirce">Conheça a Dona Dirce</a></li>
                 <li><a href="index.php" title="Contato" alt="Contato">Contato</a></li>
 			</ul>
 		</nav>
