@@ -33,7 +33,7 @@
         </div>
 		<section class="main_tutorial">
 			<header class="main_tutorial_header">
-				<h1>Confira nossas marmitas</h1>
+				<h1>Confira nossas  marmitas</h1>
 				<p>Aqui, você encontra o nosso cardápio.</p>
 			</header>
 			<?php
