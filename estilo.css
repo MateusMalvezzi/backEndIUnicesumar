@@ -42,22 +42,20 @@ li a:hover{
     background-image: url('./img/marmita-fitness1.png');
     text-align: center;
     background-color: #2d3142;
-    
-    background-position: center center;
-    background-size: cover; /*adequa a imagem ao tamanho da caixa*/
+    background-size: cover;
 }
 
 
 .main_cta .main_cta_content h1{
     font-size: 3em;
-    color: #efc67a;
+    color: #faaa17;
     font-weight: 700;
     text-align: center;
 }
 
 .main_cta .main_cta_content p{
     font-size: 1.875em;
-    color: #efc67a;
+    color: #706500;
     font-weight: 300;
     text-align: center;
     margin: 20px 0;
