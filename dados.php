@@ -4,7 +4,7 @@
 
     $pratos = array(
         0 => array(
-            'id'=>'1', 
+            'id'=>'1',
             'titulo'=>'Arroz com feijao e bife', 
             'descricao'=>'Marmita com arroz, feijão, bife e sobremesa.',
             'preco'=>'Pequena R$14.00, média R$ 17.00, Grande R$ 19.00',
