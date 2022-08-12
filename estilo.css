@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+nav{
+    width: 100%;
+    background-color: #efc67a;
+    display: flex;
+    justify-content: flex-end;/*coloca do lado direito*/				
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: stretch;/*colocando um do lado do outro*/
+}
+li{
+    list-style: none;
+    display: flex;
+    align-items: center;/*centralizado em realação a altra do topo*/
+    height: 50px;
+}
+li a{
+    padding: 0 26px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    color: #d36833;
+}
+li a:hover{
+    background-color: #efc67a;
+    color: #fff;
+}
+
+.main_cta{
+    width: 1450px;
+    height: 450px;
+    background-image: url('./img/marmita-fitness1.png');
+    text-align: center;
+    background-color: #2d3142;
+    
+    background-position: center center;
+    background-size: cover; /*adequa a imagem ao tamanho da caixa*/
+}
+
+
+.main_cta .main_cta_content h1{
+    font-size: 3em;
+    color: #efc67a;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main_cta .main_cta_content p{
+    font-size: 1.875em;
+    color: #efc67a;
+    font-weight: 300;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.main_cta .main_cta_content .btn{
+    background-color: #efc67a;
+    color: #fff;
+    font-size: 0.8em;
+    padding: 10px 40px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;border-radius: 5px;
+}
+
+.main_cta .main_cta_content .main_cta_content_spacer{
+    margin: 0 auto;
+    max-width: 1300px;
+    padding: 160px 40px;
+}
+
+
+
+/*--------------------------------*/
+.main_tutorial{
+    max-width: calc(1300px - 40px);
+    padding: 0 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between; /*espaçamento entre elementos*/
+    flex-wrap: wrap;/*quebrar o conteudo e colocar na linha de baixo*/
+}
+
+.main_tutorial .main_tutorial_header{
+    flex-basis: 100%;
+    margin: 30px 0;
+}
+
+.main_tutorial .main_tutorial_header h1{
+    color: #333;
+    margin-bottom: 5px;
+    font-size: 1.8em;
+}
+.main_tutorial article{
+    opacity: 0.85;
+    flex-basis: calc(25% - 20px);
+    margin-bottom: 30px;
+}
+.main_tutorial article:hover{
+    opacity: 1;
+}
+
+.main_tutorial article img{
+    width: 100%;
+}
+
+.main_tutorial article p{
+    margin: 10px 0;
+}
+
+.main_tutorial article .category{
+    font-size: 0.875em;
+    color: #d36833;
+}
+
+.main_tutorial article h2{
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+.main_tutorial article h2 a{
+    color: #333;
+}
+
+
+
+
+
+.rodape{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background-color: #efc67a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    gap: 5%;
+}
+
+.a-footer{
+    color:black;
+    text-decoration: none;
+}
+
+
+footer{
+    display: flex;
+    text-align: center;
+    color:#010101;  
+    flex-direction: row;
+    justify-content: center;
+}
