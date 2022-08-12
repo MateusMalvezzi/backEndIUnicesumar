@@ -63,6 +63,7 @@
 				<h2><?=$value['titulo'];?></h2>
 				<p><?=$value['descricao'];?></p>
                 <p><?=$value['preco'];?></p>
+				<p><?=$value['contato'];?></p>
 			</article>
 			<?php
                     }

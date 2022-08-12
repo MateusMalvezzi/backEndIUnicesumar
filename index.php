@@ -14,7 +14,7 @@
 			<ul>
 				<li><a href="#" title="Home" alt="Home">Home</a></li>
 				<li><a href="#" title="Blog" alt="Blog">Blog</a></li>
-				<li><a href="#" title="Conheca a Dona Dirce" alt="Conheca a Dona Dirce">Conheca a Dona Dirce</a></li>
+				<li><a href="#" title="Conheça a Dona Dirce" alt="Conheça a Dona Dirce">Conheca a Dona Dirce</a></li>
                 <li><a href="#" title="Contato" alt="Contato">Contato</a></li>
 			</ul>
 		</nav>
@@ -34,7 +34,7 @@
 		<section class="main_tutorial">
 			<header class="main_tutorial_header">
 				<h1>Confira nossas marmitas</h1>
-				<p>Aqui você encontra o nosso cardápio das marmitas.</p>
+				<p>Aqui, você encontra o nosso cardápio.</p>
 			</header>
 			<?php
 				foreach($pratos as $key => $value){                
